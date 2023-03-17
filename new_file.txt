@@ -1,3 +1,4 @@
 Im learning git
 Git is fun, Im really getting it!
 after staging, I needed to modify more so I did
+devs are lazy please save
